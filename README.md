@@ -6,11 +6,11 @@ I am a Front-End Developer :computer: and have worked as a Civil Engineer. I hav
 
 I am passionate about solving problems and learning more every day. Always open to new challenges and new knowledge.
 
-## :rocket: "Never Stop Learning" :rocket:
+## :rocket: **"Never Stop Learning"** :rocket:
 
- - 🏴󠁢󠁲󠁳󠁰󠁿 From SP living in Sampa
+ - 🏴󠁢󠁲󠁳󠁰󠁿 From SP living in Sampa.
  - :computer: Dev Front-End with knowledges in: HTML, CSS, JS, React, Next, Sass, Linux, Python.
- - 💑 Married and happy, with many projects
+ - 💑 Married and happy, with many projects.
 
 👇 Reach me out 
 
