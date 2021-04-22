@@ -1,4 +1,4 @@
-# Hey whats up 👋
+# Hey, whats up 👋
 
 My name is Alan Bruno Ferreira da Silva. :man: :brazil:
 
