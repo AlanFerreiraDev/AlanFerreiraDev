@@ -9,7 +9,7 @@ I am passionate about solving problems and learning more every day. Always open 
 ## :rocket: "Never Stop Learning" :rocket:
 
  - 🏴󠁢󠁲󠁳󠁰󠁿 From SP living in Sampa
- - :computer: Dev Front-End with knowledges in: HTML, CSS, JS, React, Next, Sass, Linux.
+ - :computer: Dev Front-End with knowledges in: HTML, CSS, JS, React, Next, Sass, Linux, Python.
  - 💑 Married and happy, with many projects
 
 👇 Reach me out 
